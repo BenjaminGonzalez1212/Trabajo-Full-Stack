@@ -12565,3 +12565,8 @@ a {
   font-weight: bold;
   text-align: center;
 }
+
+.btn-group {
+    display: flex;
+    text-align: center;
+}
