@@ -12542,3 +12542,26 @@ a {
 [data-bs-theme=dark] .toast-header {
   --bs-toast-header-color: #fff;
 }
+
+.carousel {
+    width: 600px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.carousel-item {
+    width: 600px;
+    height: 600px;
+}
+
+.bienvenida {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
